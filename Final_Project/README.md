@@ -1,8 +1,8 @@
 <h1>Adv Coding 1 | Final Project</h1>
 <hr>
 
-<h1>Video Link: https://youtu.be/vLLhusq7HOw</h1>
-<h1>Code on Mimic: https://mimicproject.com/code/28dd13c0-b3e1-2797-c63e-5625292c1640</h1>
+<h1>Video Link: https://youtu.be/vLLhusq7HOw</h1><hr>
+<h1>Code on Mimic: https://mimicproject.com/code/28dd13c0-b3e1-2797-c63e-5625292c1640</h1><hr>
 <br>
 
 <h3>Project Description</h3>
