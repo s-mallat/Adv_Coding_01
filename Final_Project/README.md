@@ -1,4 +1,8 @@
-<h1>Adv Coding 1 | Final Project Description</h1>
+<h1>Adv Coding 1 | Final Project</h1>
+<hr>
+
+<h3>Project Description</h3>
+<br>
 
 For my final project, I decided to integrate three.js and sound to create a fun composition. The final outcome is a space filled with cubes of many shapes and sizes scattered around and rotating. The way to navigate this space is through the mouse, as it can be used to zoom in/out and even interact with the solid cubes. The interaction with the cubes is a simple one that basically changes the cube colors on mouse hover. This was achieved using raycasting and long hours of trying to figure out how to make it work! Furthermore, this change of color also triggers an audio sound that gives the illusion of touching a physical object without the use of a physics library. 
 <br><br>
