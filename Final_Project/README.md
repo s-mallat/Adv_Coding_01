@@ -13,6 +13,11 @@ I originally intended to create a time-based animation that transitions from one
 Overall, I really enjoyed working on this project, even though I had many failed attempts along the way. I think one of the biggest challenges I had was combining different elements from different weeks. For instance, I originally intended to create a geometry that allows the user to transition between different fragment shaders. I proceeded to create multiple very colorful shaders, but then found myself unable to proceed with idea, because I could not stop my program from crashing upon loading multiple shaders. Another failed attempt was trying to make the looped solid cubes morph and twist into different geometries. I was able to create one morphing cube! However, it was glitching and the loop would not do what I wanted it to do and so I couldn’t use it. There were many attempts like this in the past two weeks, however, I did enjoy the process. To be honest, there’s nothing as exciting as the moment a code that you’ve been working on for hours finally works and the program runs smoothly. As a final note, I am looking forward to exploring more with the material that I’ve gained this semester, especially GLSL and shaders!
 
 <br>
+<h3>The Code</h3>
+<br>
+https://mimicproject.com/code/28dd13c0-b3e1-2797-c63e-5625292c1640
+
+<br>
 <h3>Photo Documentation</h3>
 <br>
 
