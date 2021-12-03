@@ -1,5 +1,4 @@
-<h1>Advanced Coding 1</h1>
-<h1>Homeworks</h1>
+<h1>Advanced Coding 1 | Homeworks</h1>
 <hr>
 <br>
 
