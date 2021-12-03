@@ -64,8 +64,6 @@ https://mimicproject.com/code/7cabab7c-7133-bd24-8a83-6cfadc35ff8c
 
 <h3>Week 08 | Shaders
 <br><br>
-https://mimicproject.com/code/adc0c01b-8294-23d0-37bf-e5ec2e0d52fb
-<br><br> 
 https://mimicproject.com/code/43495b45-170d-5130-5736-e2918b4548cf
 </h3>
 
