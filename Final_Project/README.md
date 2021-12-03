@@ -2,7 +2,6 @@
 <hr>
 
 <h1>Video Link: https://youtu.be/vLLhusq7HOw</h1>
-<br>
 <h1>Code on Mimic: https://mimicproject.com/code/28dd13c0-b3e1-2797-c63e-5625292c1640</h1>
 <br>
 
